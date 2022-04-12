@@ -1,37 +1,23 @@
-## Welcome to Miftah Software
+# Welcome to Miftah Software
 
-You can use the [editor on GitHub](https://github.com/MiftahSoftware/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About Us
+Miftah is an Arabic word that means a KEY and Miftah Software is THE KEY of SOFTWARE Solutions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is a startup as both Product based as well a Service-based firm. Our ultimate goal is to create quality scalable and reliable products that solve our real-life problems also provide high-quality service to the customer to achieve customer success
 
-### Markdown
+The recipe for our success depends upon the following best practices we follow. We help enterprises pursue a path of smart digital transformation via our core practices.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MiftahSoftware/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Our Practices:
+- We hire new brains and provide high-quality training to them.
+- We Follow Best Practices.
+- We Maintain Code Quality as per market standard
+- We do pair programming with experienced programmers to improve our code writing skills.
+- We do Self Assessments to regularly improve ourself
+- We believe in learning, we regularly write blogs on new technologies and learning also have internal sessions as well as webinars
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Website -> miftahsoftware.com
+- Facebook -> https://www.facebook.com/miftahsoftware
+- Instagram -> https://www.instagram.com/miftahsoftware
+- Gmail -> miftahsoftware@gmail.com
+- Linkedin -> www.linkedin.com/in/miftahsoftware
