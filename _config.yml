@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: [Miftah Software]
 description: [It is a startup as both Product based as well a Service-based firm. Our ultimate goal is to create quality scalable and reliable products that solve our real-life problems also provide high-quality service to the customer to achieve customer success]
