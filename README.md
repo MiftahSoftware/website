@@ -1,2 +1,1 @@
-# website
-Simple Website
+# Miftah Software
